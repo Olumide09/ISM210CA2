@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
 });
 
 Component3.defaultProps = {
-    name: "John"
+    name: "Daniel"
 }
 
 export default Component3;
