@@ -1,7 +1,6 @@
 import React from 'react';
 import { View, StyleSheet, KeyboardAvoidingView, ScrollView, Image, SafeAreaView, Platform } from 'react-native';
 import Component3 from './src/components/Component3';
-import Component4 from './src/components/Component3';
 import Component7 from './src/components/Component7';
 //Let's create a simple separator component that will only be used here in App.tsx
 const Separator: React.FC = () => {
